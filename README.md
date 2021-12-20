@@ -3,7 +3,7 @@ Level Based Customer Segmentation
 Persona Veri Seti kullanılarak müşteri segmentasyonu yapılmıştır.
 KOLONLAR :
 
-  PRICE – Müşterinin harcama tutarı 
+  PRICE – Müşterinin harcama tutarı <br>
   SOURCE – Müşterinin bağlandığı cihaz türü 
   SEX – Müşterinin cinsiyeti
   COUNTRY – Müşterinin ülkesi AGE – Müşterinin yaşı
