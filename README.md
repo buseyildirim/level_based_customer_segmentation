@@ -1,6 +1,6 @@
 # level_based_customer_segmentation
 Level Based Customer Segmentation
-Persona Veri Seti kullanılarak müşteri segmentasyonu yapılmıştır.<br>
+Persona Veri Seti kullanılarak müşteri segmentasyonu yapılmıştır.<br><br>
 KOLONLAR :
 
   PRICE – Müşterinin harcama tutarı <br>
