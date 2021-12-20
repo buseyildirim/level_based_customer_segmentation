@@ -4,8 +4,8 @@ Persona Veri Seti kullanılarak müşteri segmentasyonu yapılmıştır.
 KOLONLAR :
 
   PRICE – Müşterinin harcama tutarı <br>
-  SOURCE – Müşterinin bağlandığı cihaz türü 
-  SEX – Müşterinin cinsiyeti
+  SOURCE – Müşterinin bağlandığı cihaz türü <br>
+  SEX – Müşterinin cinsiyeti<br>
   COUNTRY – Müşterinin ülkesi AGE – Müşterinin yaşı
 
 ADIMLAR:
